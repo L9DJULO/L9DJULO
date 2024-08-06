@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MobileApps<br>🤝 I’m studing at EPITA Paris <br>🌱 I’m currently learning FullStack , DevOps and MobileApps<br>💬 Ask me about any thing on my repos
+🤝 I’m studing at EPITA Paris <br>🌱 I’m currently learning FullStack , DevOps and MobileApps<br>💬 Ask me about any thing on my repos
 
 
 ## 🌐 Socials:
